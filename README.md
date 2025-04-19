@@ -4,6 +4,7 @@ Sales forecasting is a common task performed by organizations to estimate expect
 
 We will also perform Data Analysis and Statistical Analysis to understand the data and its features and how they can influence the sales.
 
+This is the source code from this [Article](https://neurobyte.org/guides/retail-sales-forecasting-ensemble-methods/).
 The data is available on [Kaggle](https://www.kaggle.com/competitions/rossmann-store-sales/overview).
 
 ## Project Steps
